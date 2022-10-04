@@ -11,6 +11,7 @@ section {
     column-count: 2;
     min-height: 100%;
     max-width: 100%;
+    border-radius: 50%;
 }
 
 h1 {
