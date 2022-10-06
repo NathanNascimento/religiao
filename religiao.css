@@ -1,6 +1,6 @@
 @charset "utf-8";
 
- /* * {
+/* * {
     min-height: 100%;
     max-width: 100%;
 } */
@@ -86,7 +86,7 @@ p {
     color: rgb(255, 255, 255);
     padding: 20px;
     border-radius: 20px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 
@@ -196,4 +196,20 @@ a {
 
 .change {
     display: block;
+}
+
+footer {
+    /* define a largura de minha barra abaixo do titulo */
+    width: 20%;
+    /* define a altura da minha pagina abaixo do titulo */
+    height: 20%;
+    /* altera a cor da borda abaixo do titulo */
+    border-color: #547a4e;
+    /* arredonda a borda da minha barra */
+    border-radius: 10px;
+    /* define a cor de fundo da minha barra */
+    background-color: #7efa6d;
+    /* alinha meu texto dentro do footer */
+    text-align: center;
+
 }
